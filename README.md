@@ -1,2 +1,2 @@
 # -Have-You-Seen-These-Katz-
-Bash Commands For Masking MimiKatz (Future Program)
+(Future Program) Masks Keywords used by AV detection software to detect and identify Invoke-Mimikatz.ps1 script.
